@@ -49,7 +49,7 @@ n'est pas modifié a la suite d'une quelconque mise a jour, ne scanne pas automa
 - **tiff**
 - **webp**
 
-> ça veux dire quoi tout ces formats? bien, affichez, et enregistrez, grace au "CORE" CIRCAFRAX.
+> ça veux dire quoi tout ces formats? bien, affichez, et enregistrez, grace au core CircaFrax.
 
 ## Aperçu
 <img src="assets/Screenshot_v1.0.0.png" width="700">
