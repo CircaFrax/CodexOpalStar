@@ -66,6 +66,8 @@ CodexOpalStar/
 ```
 
 Pas d'installation. Double-clic et c'est parti, comme en 1998 mais en mieux.
+Si vous voulez en faire la visionneuse par défaut, sélectionnez un fichier, faites clic droit/ouvrir avec/choisir une autre application, en cochant bien "toujour utiliser cette application". ensuite sélectionnez CodexOpaleStar, que vous aurez rangé dans ProgramFiles\codex par exemple, selectionnez le en cochant "toujour utiliser".
+Autrement, utilisez le comme un logiciel d'apperçu et de transformation de format.
 
 ### 🔒 Confidentialité
 
