@@ -5,7 +5,7 @@
 # CodexOpalStar v1.0.0 - La visioneuse image libre
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexOpalStar/main/assets/CodexOpalStar_box.png" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexOpalStar/main/assets/codexOpalStar_box.jpg" width="420">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ n'est pas modifié a la suite d'une quelconque mise a jour, ne scanne pas automa
 > ça veux dire quoi tout ces formats? bien, affichez, et enregistrez, grace au "CORE" CIRCAFRAX.
 
 ## Aperçu
-<img src="assets/Screenshot_v1.1.0.png" width="700">
+<img src="assets/Screenshot_v1.0.0.png" width="700">
 *Interface affichage – Menu et info en bas, clic droit pour action rapide*
 
 ### 📁 Contenu du Zip
