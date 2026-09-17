@@ -59,7 +59,7 @@ n'est pas modifié a la suite d'une quelconque mise a jour, ne scanne pas automa
 
 ```
 CodexOpalStar/
-├── CodexOpalStar.exe
+├── CodexOpaleStar.exe
 ├── LICENCE.md
 ├── LICENSE.md
 └── THIRD_PARTY_LICENSES.md
