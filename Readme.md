@@ -19,7 +19,7 @@
 
 ### ⬇️ [Télécharger CodexOpalStar v1.0.0 (Windows)](https://github.com/CircaFrax/CodexOpalStar/releases/download/v1.0.0/CodexOpalStar_v1.0.0.zip)
 
-`SHA256: A venir a la release, ca arrive!`
+`SHA256: 6fbf8d09f21bf7ee141a1e3d4c9a8a28e9cfde187f9788a730455f7326608b8d`
 
 </p>
 
