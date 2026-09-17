@@ -49,6 +49,8 @@ n'est pas modifié a la suite d'une quelconque mise a jour, ne scanne pas automa
 - **tiff**
 - **webp**
 
+> ça veux dire quoi tout ces formats? bien, affichez, et enregistrez, grace au "CORE" CIRCAFRAX.
+
 ## Aperçu
 <img src="assets/Screenshot_v1.1.0.png" width="700">
 *Interface affichage – Menu et info en bas, clic droit pour action rapide*
