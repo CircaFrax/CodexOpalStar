@@ -2,7 +2,7 @@
   <img src="https://circafrax.github.io/assets/banniere.png" width="500">
 </p>
 
-# CodexOpalStar v1.0.0 - La visioneuse image libre
+# CodexOpalStar v1.0.0 - La visionneuse image libre
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CircaFrax/CodexOpalStar/main/assets/CodexOpalStar_box.jpg" width="420">
@@ -27,7 +27,7 @@
 
 ### Pourquoi CodexOpalStar ?
 
-Les visioneuses intégrées disposent de centaines de boutons, d'options, de modes, intègrent des fonctions absurdes.
+Les visionneuses intégrées disposent de centaines de boutons, d'options, de modes, intègrent des fonctions absurdes.
 CodexOpalStar est sous licence CircaFrax, c'est a dire, c'est en local, c'est sur votre PC, ca n'appartiens pas a une mégastructure.
 n'est pas modifié a la suite d'une quelconque mise a jour, ne scanne pas automatiquement toute les images de vos supports connectés.
 
