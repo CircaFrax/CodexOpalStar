@@ -5,7 +5,7 @@
 # CodexOpalStar v1.0.0 - La visioneuse image libre
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CircaFrax/CodexOpalStar/main/assets/codexOpalStar_box.jpg" width="420">
+  <img src="https://raw.githubusercontent.com/CircaFrax/CodexOpalStar/main/assets/CodexOpalStar_box.jpg" width="420">
 </p>
 
 <p align="center">
