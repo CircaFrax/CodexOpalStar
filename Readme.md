@@ -31,7 +31,7 @@ Les visionneuses intégrées disposent de centaines de boutons, d'options, de mo
 CodexOpaleStar est sous licence CircaFrax, c'est a dire, c'est en local, c'est sur votre PC, ca n'appartiens pas a une mégastructure.
 n'est pas modifié a la suite d'une quelconque mise a jour, ne scanne pas automatiquement toute les images de vos supports connectés.
 
-> Conçu pour les documents provés : particuliers, entreprises, associations.
+> Conçu pour les documents privés : particuliers, entreprises, associations.
 
 ## ✨ Un logiciel, pleins de formats
 
